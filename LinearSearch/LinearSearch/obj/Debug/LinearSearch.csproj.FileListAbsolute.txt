@@ -1,0 +1,8 @@
+D:\simplilearn\AssistedProjects\section-8\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+D:\simplilearn\AssistedProjects\section-8\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+D:\simplilearn\AssistedProjects\section-8\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+D:\simplilearn\AssistedProjects\section-8\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
+D:\simplilearn\AssistedProjects\section-8\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\AssistedProjects\section-8\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+D:\simplilearn\AssistedProjects\section-8\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+D:\simplilearn\AssistedProjects\section-8\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb

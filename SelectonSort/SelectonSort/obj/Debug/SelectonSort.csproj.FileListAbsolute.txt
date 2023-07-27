@@ -1,0 +1,8 @@
+D:\simplilearn\AssistedProjects\section-8\SelectonSort\SelectonSort\bin\Debug\SelectonSort.exe.config
+D:\simplilearn\AssistedProjects\section-8\SelectonSort\SelectonSort\bin\Debug\SelectonSort.exe
+D:\simplilearn\AssistedProjects\section-8\SelectonSort\SelectonSort\bin\Debug\SelectonSort.pdb
+D:\simplilearn\AssistedProjects\section-8\SelectonSort\SelectonSort\obj\Debug\SelectonSort.csproj.AssemblyReference.cache
+D:\simplilearn\AssistedProjects\section-8\SelectonSort\SelectonSort\obj\Debug\SelectonSort.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\AssistedProjects\section-8\SelectonSort\SelectonSort\obj\Debug\SelectonSort.csproj.CoreCompileInputs.cache
+D:\simplilearn\AssistedProjects\section-8\SelectonSort\SelectonSort\obj\Debug\SelectonSort.exe
+D:\simplilearn\AssistedProjects\section-8\SelectonSort\SelectonSort\obj\Debug\SelectonSort.pdb

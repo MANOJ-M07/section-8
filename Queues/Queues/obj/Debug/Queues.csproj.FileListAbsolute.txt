@@ -1,0 +1,8 @@
+D:\simplilearn\AssistedProjects\section-8\Queues\Queues\bin\Debug\Queues.exe.config
+D:\simplilearn\AssistedProjects\section-8\Queues\Queues\bin\Debug\Queues.exe
+D:\simplilearn\AssistedProjects\section-8\Queues\Queues\bin\Debug\Queues.pdb
+D:\simplilearn\AssistedProjects\section-8\Queues\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+D:\simplilearn\AssistedProjects\section-8\Queues\Queues\obj\Debug\Queues.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\AssistedProjects\section-8\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+D:\simplilearn\AssistedProjects\section-8\Queues\Queues\obj\Debug\Queues.exe
+D:\simplilearn\AssistedProjects\section-8\Queues\Queues\obj\Debug\Queues.pdb

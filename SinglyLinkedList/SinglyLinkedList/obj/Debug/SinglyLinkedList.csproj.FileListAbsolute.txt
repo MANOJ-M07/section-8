@@ -1,0 +1,8 @@
+D:\simplilearn\AssistedProjects\section-8\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe.config
+D:\simplilearn\AssistedProjects\section-8\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe
+D:\simplilearn\AssistedProjects\section-8\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.pdb
+D:\simplilearn\AssistedProjects\section-8\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.AssemblyReference.cache
+D:\simplilearn\AssistedProjects\section-8\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\AssistedProjects\section-8\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.csproj.CoreCompileInputs.cache
+D:\simplilearn\AssistedProjects\section-8\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.exe
+D:\simplilearn\AssistedProjects\section-8\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.pdb
